@@ -1,0 +1,6 @@
+id=gboard-height-mod
+name=Patch for Google Gboard
+version=v01
+versionCode=1
+author=AndroPlus
+description=Change padding of Google Gboard keyboard
